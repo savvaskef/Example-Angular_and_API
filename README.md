@@ -10,7 +10,7 @@ string according to your configuration(found on appsettings.json)
 <hr>
  
 Open it in Code and again run the client that reads Angular code into functionality(-ies)
-You do that By typing :
+You do that By typing :<br>
   npm start
   <br>
   
@@ -20,10 +20,11 @@ If there are any incmobatibilities remove node_modules folder and readd them via
   npm install -g @angular/cli  
   <br>
   ...to transfer all the environment you need fot the client side to run on a browser<br>
-typing again: 
+by typing again: 
   npm start
   <br>    
-  You will get the address you need to witness the small yet all-encompassing Dept-Employee app functionality.
+  You will get the address to enter in your browser to start the client.
+  Now you may witness the small but fully synced Dept-Employee app .
   The departments and Employess are now synced to the database using WEB-Api automation
   <hr>
   
